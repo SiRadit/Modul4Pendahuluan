@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace Modul4__103082400027
 {
-    internal class KodePos
+    class KodePos
     {
         public string GetKodePos(string kelurahan)
         {
-            // Menggunakan array paralel sebagai pengganti hashing
             string[] dataKelurahan = { "Batununggal", "Kujangsari", "Mengger", "Wates", "Cijaura", "Jatisari", "Margasari", "Sekejati", "Kebonwaru", "Maleer", "Samoja" };
             string[] dataKodePos = { "40266", "40287", "40267", "40256", "40287", "40286", "40286", "40286", "40272", "40274", "40273" };
 

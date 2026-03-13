@@ -1,0 +1,15 @@
+D:\Coding\Praktikum S4\KPL\Modul4_ 103082400027\Modul4_ 103082400027\bin\Debug\net8.0\Modul4_ 103082400027.exe
+D:\Coding\Praktikum S4\KPL\Modul4_ 103082400027\Modul4_ 103082400027\bin\Debug\net8.0\Modul4_ 103082400027.deps.json
+D:\Coding\Praktikum S4\KPL\Modul4_ 103082400027\Modul4_ 103082400027\bin\Debug\net8.0\Modul4_ 103082400027.runtimeconfig.json
+D:\Coding\Praktikum S4\KPL\Modul4_ 103082400027\Modul4_ 103082400027\bin\Debug\net8.0\Modul4_ 103082400027.dll
+D:\Coding\Praktikum S4\KPL\Modul4_ 103082400027\Modul4_ 103082400027\bin\Debug\net8.0\Modul4_ 103082400027.pdb
+D:\Coding\Praktikum S4\KPL\Modul4_ 103082400027\Modul4_ 103082400027\obj\Debug\net8.0\Modul4_ 103082400027.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Praktikum S4\KPL\Modul4_ 103082400027\Modul4_ 103082400027\obj\Debug\net8.0\Modul4_ 103082400027.AssemblyInfoInputs.cache
+D:\Coding\Praktikum S4\KPL\Modul4_ 103082400027\Modul4_ 103082400027\obj\Debug\net8.0\Modul4_ 103082400027.AssemblyInfo.cs
+D:\Coding\Praktikum S4\KPL\Modul4_ 103082400027\Modul4_ 103082400027\obj\Debug\net8.0\Modul4_ 103082400027.csproj.CoreCompileInputs.cache
+D:\Coding\Praktikum S4\KPL\Modul4_ 103082400027\Modul4_ 103082400027\obj\Debug\net8.0\Modul4_ 103082400027.sourcelink.json
+D:\Coding\Praktikum S4\KPL\Modul4_ 103082400027\Modul4_ 103082400027\obj\Debug\net8.0\Modul4_ 103082400027.dll
+D:\Coding\Praktikum S4\KPL\Modul4_ 103082400027\Modul4_ 103082400027\obj\Debug\net8.0\refint\Modul4_ 103082400027.dll
+D:\Coding\Praktikum S4\KPL\Modul4_ 103082400027\Modul4_ 103082400027\obj\Debug\net8.0\Modul4_ 103082400027.pdb
+D:\Coding\Praktikum S4\KPL\Modul4_ 103082400027\Modul4_ 103082400027\obj\Debug\net8.0\Modul4_ 103082400027.genruntimeconfig.cache
+D:\Coding\Praktikum S4\KPL\Modul4_ 103082400027\Modul4_ 103082400027\obj\Debug\net8.0\ref\Modul4_ 103082400027.dll
