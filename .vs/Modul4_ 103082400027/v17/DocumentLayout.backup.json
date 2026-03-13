@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{5B9F0DD9-1972-4302-9400-49A7CBF9F679}|Modul4_ 103082400027\\Modul4_ 103082400027.csproj|solutionrelative:modul4_ 103082400027\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5B9F0DD9-1972-4302-9400-49A7CBF9F679}|Modul4_ 103082400027\\Modul4_ 103082400027.csproj|d:\\coding\\praktikum s4\\kpl\\modul4_ 103082400027\\modul4_ 103082400027\\modul4_ 103082400027.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B9F0DD9-1972-4302-9400-49A7CBF9F679}|Modul4_ 103082400027\\Modul4_ 103082400027.csproj|solutionrelative:modul4_ 103082400027\\modul4_ 103082400027.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B9F0DD9-1972-4302-9400-49A7CBF9F679}|Modul4_ 103082400027\\Modul4_ 103082400027.csproj|d:\\coding\\praktikum s4\\kpl\\modul4_ 103082400027\\modul4_ 103082400027\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B9F0DD9-1972-4302-9400-49A7CBF9F679}|Modul4_ 103082400027\\Modul4_ 103082400027.csproj|solutionrelative:modul4_ 103082400027\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -22,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "KodePos.cs",
               "DocumentMoniker": "D:\\Coding\\Praktikum S4\\KPL\\Modul4_ 103082400027\\Modul4_ 103082400027\\KodePos.cs",
               "RelativeDocumentMoniker": "Modul4_ 103082400027\\KodePos.cs",
@@ -35,8 +39,7 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T14:19:27.861Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -46,9 +49,22 @@
               "RelativeDocumentMoniker": "Modul4_ 103082400027\\DoorMachine.cs",
               "ToolTip": "D:\\Coding\\Praktikum S4\\KPL\\Modul4_ 103082400027\\Modul4_ 103082400027\\DoorMachine.cs",
               "RelativeToolTip": "Modul4_ 103082400027\\DoorMachine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T14:28:18.958Z",
+              "WhenOpened": "2026-03-13T14:33:13.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Modul4_ 103082400027",
+              "DocumentMoniker": "D:\\Coding\\Praktikum S4\\KPL\\Modul4_ 103082400027\\Modul4_ 103082400027\\Modul4_ 103082400027.csproj",
+              "RelativeDocumentMoniker": "Modul4_ 103082400027\\Modul4_ 103082400027.csproj",
+              "ToolTip": "D:\\Coding\\Praktikum S4\\KPL\\Modul4_ 103082400027\\Modul4_ 103082400027\\Modul4_ 103082400027.csproj",
+              "RelativeToolTip": "Modul4_ 103082400027\\Modul4_ 103082400027.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T14:32:52.914Z",
               "EditorCaption": ""
             },
             {
@@ -59,7 +75,7 @@
               "RelativeDocumentMoniker": "Modul4_ 103082400027\\Program.cs",
               "ToolTip": "D:\\Coding\\Praktikum S4\\KPL\\Modul4_ 103082400027\\Modul4_ 103082400027\\Program.cs",
               "RelativeToolTip": "Modul4_ 103082400027\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T08:59:36.117Z",
               "EditorCaption": ""
